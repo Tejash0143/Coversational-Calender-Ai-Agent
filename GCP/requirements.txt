@@ -1,0 +1,24 @@
+# Streamlit UI
+streamlit
+
+# FastAPI backend
+fastapi
+uvicorn
+
+# LLM Agent tools
+langchain
+langgraph
+
+# Google Calendar integration
+google-api-python-client
+google-auth
+
+# Env vars
+python-dotenv
+
+# HTTP calls
+requests
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
